@@ -1,0 +1,21 @@
+{
+  "name": "impex-global-test",
+  "description": "Nuxt.js project",
+  "main": "",
+  "authors": [
+    "deadka1313 <deadka1313@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/deadka1313/ImpexGlobal",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
