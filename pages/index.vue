@@ -1,6 +1,6 @@
 <template>
-	<section>
-		Привет
+	<section class="container">
+		Index
 	</section>
 </template>
 
