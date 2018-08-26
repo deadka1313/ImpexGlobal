@@ -1,6 +1,8 @@
 <template>
-	<section class="container">
-		Index
+	<section class="container ">
+		<div class="wrapperTable">
+			Index
+		</div>
 	</section>
 </template>
 

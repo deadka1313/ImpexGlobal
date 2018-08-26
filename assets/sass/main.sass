@@ -1,2 +1,29 @@
+@import "variables/variables"
+@import "mixins/mixins"
+
 @import "blocks/header/header"
+@import "blocks/wrapper/wrapper"
+@import "blocks/footer/footer"
+@import "blocks/content/content"
+@import "blocks/wrapperTable/wrapperTable"
+@import "blocks/logo-grey/logo-grey"
+@import "blocks/flex-row/flex-row"
+@import "blocks/footer-menu/footer-menu"
+@import "blocks/banner/banner"
+@import "blocks/breadcrumbs/breadcrumbs"
+
+html,
+body
+	height: 100%
+	min-width: 590px
+
+.mr-10
+	margin-right: 10px
+
+.mb-40
+	margin-bottom: 40px
+
+@media (min-width: 1440px)
+	.container
+		max-width: 1440px
 

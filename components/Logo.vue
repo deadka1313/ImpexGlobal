@@ -1,3 +1,3 @@
 <template>
-	<img src="~assets/img/logo.png" alt="Impeglobal">
+	<img src="~assets/img/logo.png" alt="Impexglobal">
 </template>
